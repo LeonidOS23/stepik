@@ -1,3 +1,1 @@
-# helloWorld
-Test project
-checkingGitHub
+stepik
