@@ -1,2 +1,0 @@
-stepik
-added text
